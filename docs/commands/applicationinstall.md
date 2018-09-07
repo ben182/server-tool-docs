@@ -20,4 +20,3 @@ Then type `stool application:install`
 |NPM install|Run npm install in the application folder|
 |Git post pull|This will put a post-merge file in the .git/hooks folder that you can customize to execute commands after git pull|
 |Git auto deploy|This will enable git auto deploy for you application|
-|Hard Reset|This will pull from git with hard reset|
