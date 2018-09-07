@@ -32,6 +32,14 @@ module.exports = {
           '/commands/redisbackup',
         ]
       },
+      {
+        title: 'Git Auto Deploy',
+        collapsable: false,
+        children: [
+          '/gad/gettingstarted',
+          '/gad/addgad',
+        ]
+      },
     ]
   }
 }
