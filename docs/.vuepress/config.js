@@ -2,6 +2,7 @@ module.exports = {
   title: 'stool',
   description: 'A fully featured LAMP+ installer and management tool optimized for DigitalOcean & Laravel',
   base: '/docs/',
+  ga: 'UA-125405523-1',
 
   themeConfig: {
     // Assumes GitHub. Can also be a full GitLab url.
